@@ -1,0 +1,81 @@
+#new{
+    
+    display: grid;
+    grid-template-columns: auto auto;
+}
+body{
+    background-color: darkgoldenrod;
+}
+.nn2{
+    
+    text-align: justify;
+    font-size: 30px;
+    background-color: whitesmoke;
+
+}
+.nn{
+    
+    text-align: justify;
+    font-size: 30px;
+}
+.nn1{
+    padding: 20px;
+    margin-left: 200px;
+}
+input[type=text]{
+    padding: 20px;
+    width: 500px;
+    border-bottom: 2px solid black;
+}
+#new1{
+    
+    font-size: 90px;
+    color: solid black;
+    text-align: center;
+}
+button{
+    padding: 20px;
+    margin-left: 220px;
+    width: 600px;
+    background-color: blueviolet;
+    font-size: 30px;
+}
+#c1{
+    border: 2px solid aquamarine;
+    background-color: aquamarine;
+    color: darkgreen;
+    padding: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 30px;
+    
+}
+#c2{
+    border: 2px solid lightgoldenrodyellow;
+    background-color: lightgoldenrodyellow;
+    color: orange;
+    padding: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+#c3{
+    border: 2px solid lightblue;
+    background-color: lightblue;
+    color: blue;
+    padding: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+#c4{
+    border: 2px solid lightcoral;
+    background-color: lightcoral;
+    color: red;
+    padding: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+
+
